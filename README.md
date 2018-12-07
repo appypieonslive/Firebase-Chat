@@ -4,7 +4,7 @@ Firebasechat is a samplle text chat app,
 
 Use Libaray 
 
-implementation 'com.github.appypieonslive:Firebase-Chat:41f84121c6'
+implementation 'com.github.appypieonslive:Firebase-Chat:1.0.0'
 }
 
 repositories {
